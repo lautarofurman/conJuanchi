@@ -1,1 +1,3 @@
-let funciones()
+function comer() {
+
+}
