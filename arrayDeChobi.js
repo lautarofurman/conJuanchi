@@ -1,1 +1,1 @@
-let arrayDeChobi = ["cucharachita", "bichito de luz", "tucan"]
+let arrayDeChobi = ["cucharachita", "bichito de luz", "tucan", "mosquito"]
