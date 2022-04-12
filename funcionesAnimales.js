@@ -1,1 +1,1 @@
-//aca van funciones
+let funciones = 

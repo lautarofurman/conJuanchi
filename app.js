@@ -1,3 +1,2 @@
-let Animales = require('./Animalitos.json')
+console.log("lauti que capo que sos")
 
-console.log("pruba")
